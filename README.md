@@ -90,6 +90,8 @@ It also makes colors look less bright.
 
 > Rare.
 
+#### Types
+
 There are 2 types of total color blindness.
 
 1. **Achromatopsia** (Rod Monochromacy) has been known to medicine since at least 1777.
