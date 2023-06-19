@@ -11,23 +11,23 @@ Consider this finding published by Sussex Research,
 That is to say, there is a fruit gathering monkey with similar "color blindness" to ours, who has an advantage when searching for certain types of fruit over normal sighted monkeys.
 
 While it is interesting to consider the vestigial advantages of genetic diversity, or even contemporary advantages (such as detecting camouflage), our primary focus will be on accessibility.
-From here on I will be concerned with what "differently abled" vision can't do.
+From here on I will be concerned with the struggles of "differently abled" vision.
 
 ## Causes
 
-The primary cause of CVDs is genetic inheritance, but it can also be caused by damage to the eye, the optic nerve, or parts of the brain.
-Some medications disrupt normal color vision, as well.
+The primary cause of CVDs is genetic inheritance, but conditions can also arise from damage to the eye, the optic nerve, or parts of the brain.
+Some medications disrupt normal color vision as well.
 
-The retina contains three different types of cones tuned to perceive long, middle, or short wavelengths.
+The retina contains three different types of "cones" tuned to perceive long, middle, or short wavelengths.
 
-These "L-", "M-", and "S-" cones correspond roughly to the Redish, Greenish, and Bluish color ranges.
+These "L-", "M-", and "S-" cones correspond roughly to the red-ish, green-ish, and blu-ish color ranges.
 
 ## Variation
 
 From these three inputs a person with normal color vision can distinguish more than 100 "hues".
-For example, green and brown are different hues, pastel green and dark green are of the same hue.
+Green and brown are different hues, while pastel green and dark green are of the same hue.
 
-There are 7 or 8 types of CVD split into three basic catagories:
+There are 8 types of CVD split into three basic catagories:
 - Red-green
 - Blue-yellow
 - Complete Color Blindness
@@ -98,22 +98,22 @@ There are 2 types of total color blindness.
 
 ## Testing and Remediation
 
-Since 1875 printed dots of different chromaticity to produce patterns have been used to test color vision.
+Since 1875 patterns of dots with different chromaticity have been used to test color vision.
 The Ishihara color test was developed in 1917 and is now the standard.
 These prints must be properly calibrated for accurate evaluation.
 
 Designers should follow guidelines, such as the Web Content Accessibility Guidelines (WCAG), in order to ensure that products are accessible to everyone.
 
-Processing color images to add texture or shift colors can be useful in some cases, but the most common consideration is to ensure that contrast ratios allow for differentiation regardless of color use.
-
 It is always important that color is not the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element. 
+
+Processing color images to add texture or shift colors can be useful in some cases, but the most basic consideration is to ensure that contrast ratios allow for differentiation regardless of color use.
 
 
 ## Other Animals
 
 Some birds, fish, and insects possess sophisticated color visual systems with capabilities beyond humans.
 While it is far from my objective with this video it is interesting to think about.
-While primates have 3 color cells that detect "the visible spectrum", some birds have 4 or 5 color cells with vision into the infrared and ultraviolet ranges.
+While primates have 3 cones that detect "the visible spectrum", some birds have 4 or 5 color cells giving them vision into the infrared and ultraviolet ranges.
 
 
 ## References
