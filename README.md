@@ -55,17 +55,15 @@ It is more common in Caucasians than other ethnic groups, and the role of genes 
 
 #### Types
 
-There are 4 types of red-green color blindness depending on if the L- or M- cones are weak.
+There are 4 types of red-green color blindness.
+Protans L-cone (red) weak, while Deutans are M-cone (green) weak.
 
-Protans are red weak, and Deutans are green weak.
-
-In **Protanomaly** the L-cone is more like the M-cone, so red looks less bright shifts into green.
-
-**Deutanomaly** makes the M-cone more like the L-cone, making green look more like red. 
+1. **Protanomaly** the L-cone is more like the M-cone, so red looks less bright shifts into green.
+2. **Deutanomaly** makes the M-cone more like the L-cone, making green look more like red. 
 
 These usually doesn’t get in the way of normal activities.
 
-People with **Protanopia** and **Deuteranopia** are unable to tell the difference between red and green.
+People with 3. **Protanopia** and 4. **Deuteranopia** are unable to tell the difference between red and green.
 
 ### Blue-yellow
 
@@ -83,15 +81,19 @@ People with **Protanopia** and **Deuteranopia** are unable to tell the differenc
 
 There are 2 types of blue-yellow color blindness:
 
-**Tritanomaly** makes it hard to tell the difference between the above confusion colors, and **Tritanopia** indicates no ability to differentiate them.
+1. **Tritanomaly** makes it hard to tell the difference between the above confusion colors.
+2. **Tritanopia** indicates no ability to differentiate them.
 
 It also makes colors look less bright.
 
 ### Complete Color Blindness
 
-There are 2 types of total color blindness, both are rare.
+> Rare.
 
-**Achromatopsia** (Rod Monochromacy) has been known to medicine since at least 1777, it wasn't until the 1960s when genetic considerations led researchers to identify **Blue Cone Monochromacy** as a different condition altogether.
+There are 2 types of total color blindness.
+
+1. **Achromatopsia** (Rod Monochromacy) has been known to medicine since at least 1777.
+2. **Blue Cone Monochromacy** identified in the 1960s when genetic considerations led researchers to distinguish it from Achromatopsia.
 
 
 ## Testing and Remediation
@@ -116,10 +118,10 @@ While primates have 3 color cells that detect "the visible spectrum", some birds
 
 ## References
 
-[Sussex Research Online: Multidimensional scaling reveals a color dimension unique to 'colordeficient' observers.](http://sro.sussex.ac.uk/id/eprint/52520/4/Bosten05CurrentBiologyFinalAccepted.pdf)
-[Causes of Color](https://www.webexhibits.org/causesofcolor)
-[Severity of Colorblindness Varies](https://web.archive.org/web/20070205055320/http://healthlink.mcw.edu/article/999211295.html)
-[Types of Color Blindness](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness/types-color-blindness)
-[WCAG](https://w3c.github.io/wcag/guidelines/#use-of-color)
-[Confusion Colors](https://en.wikipedia.org/wiki/Color_blindness#Confusion_colors)
-[Colour blindness may have hidden advantages](https://www.nature.com/articles/news051205-1)
+- [Sussex Research Online: Multidimensional scaling reveals a color dimension unique to 'colordeficient' observers.](http://sro.sussex.ac.uk/id/eprint/52520/4/Bosten05CurrentBiologyFinalAccepted.pdf)
+- [Causes of Color](https://www.webexhibits.org/causesofcolor)
+- [Severity of Colorblindness Varies](https://web.archive.org/web/20070205055320/http://healthlink.mcw.edu/article/999211295.html)
+- [Types of Color Blindness](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness/types-color-blindness)
+- [WCAG](https://w3c.github.io/wcag/guidelines/#use-of-color)
+- [Confusion Colors](https://en.wikipedia.org/wiki/Color_blindness#Confusion_colors)
+- [Colour blindness may have hidden advantages](https://www.nature.com/articles/news051205-1)
